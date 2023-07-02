@@ -1,0 +1,80 @@
+Excel Assignment-2:
+
+1.What does the dollar($) sign do?
+
+Sol: Dollar sign($) symbol that represents the dollar,the name of the standard monetary unit used in the United States, Canada, Australia, New Zealand.
+
+2. How to Change the Reference from Relative to Absolute (or Mixed)?
+
+Sol: a.Select the cell that contains the formula.
+     b.Select the reference that you want to change. 
+     c.Press F4 to switch between the reference types.
+
+3. Explain the order of operations in excel?
+
+Sol: The order of operations in excel:
+     
+     1.In Excel always begins with an equal sign (=) 
+     2.Then Parentheses,operations enclosed in parentheses are calculated first.
+     3.Exponents,after parentheses, In Excel performs calculations involving exponents or powers. 
+     4.Multiplication and Division,In Excel performs multiplication and division operations from left to right.
+     5.Addition and Subtraction,In Excel performs addition and subtraction operations from left to right.
+
+4. What, according to you, are the top 5 functions in excel and write a basic syntax
+   for any of two?
+
+Sol: Here are five commonly used functions:
+
+    1. SUM Function:The SUM function adds up a range of numbers or individual cells.
+         Syntax: =SUM(number1, [number2], [number3], ...)
+
+    2. IF Function:The IF function allows you to perform conditional calculations based on a logical test. It returns one value if the 
+       logical test is true and another value if it is false.
+          Syntax: =IF(logical_test, value_if_true, value_if_false)
+
+    3. VLOOKUP Function:The VLOOKUP function searches for a value in the leftmost column of a table and returns a corresponding value 
+       from a specified column in the same row.
+           Syntax: =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+
+    4.COUNT Function:The COUNT function counts the number of cells in a range that contain numbers or other specified values.
+          Syntax: =COUNT(value1, [value2], [value3], ...)
+
+    5. AVERAGE Function:The AVERAGE function calculates the average of a range of numbers or individual cells.
+          Syntax: =AVERAGE(number1, [number2], [number3], ...)
+
+
+5. When would you use the subtotal function?
+
+Sol: The SUBTOTAL function in Excel is used to perform calculations on a filtered range or a range that contains both visible and hidden rows.
+     It is particularly useful when you want to perform calculations on a subset of data while ignoring hidden or filtered-out rows.
+
+     Some common use cases for the SUBTOTAL function:
+
+     1.Subtotal with Filtering: When you have a large dataset, and you want to filter it to view specific subsets,
+       the SUBTOTAL function can provide accurate calculations.
+     2.Conditional Calculations: You can use the SUBTOTAL function in combination with other functions like SUM, AVERAGE, COUNT, etc, 
+       to perform conditional calculations on the visible data.
+     3.Subtotal with Grouping: If you have grouped data in your worksheet and want to calculate subtotals for each group,
+       the SUBTOTAL function can handle
+
+     
+6. What is the syntax of the vlookup function? Explain the terms in it?
+
+Sol: The VLOOKUP function in Excel is used to search for a value in the leftmost column of a table and retrieve a corresponding value 
+     from a specified column in the same row.
+
+        syntax: =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+    
+     
+
+
+
+
+
+
+
+
+
+
+
+
